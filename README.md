@@ -1,1 +1,1 @@
-# HelloWorldSpringMVC
+# SpringMVC
